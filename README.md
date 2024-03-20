@@ -1,3 +1,8 @@
+Projet ReactJS réalisr avec l'API pokeBuild.
+Utilisation des Routes, d'axios, de bootstrap et react bootstrap.
+
+Liste des 151 premiers pokemons avec features de recherche, d'ajout en favoris,  et pagination.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
